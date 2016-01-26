@@ -1,0 +1,13 @@
+{
+  "name": "Configurator",
+  "url" : "https://github.com/FuzzyWuzzie/haxe-configurator",
+  "license": "MIT",
+  "tags": ["cross", "utility"],
+  "description": "A JSON-based configuration loader, based on the idea that 'You deserve great error messages!'",
+  "version": "0.1.0",
+  "releasenote": "Development version!",
+  "contributors": ["FuzzyWuzzie"],
+  "dependencies": {
+  	"hxparse": ""
+  }
+}
